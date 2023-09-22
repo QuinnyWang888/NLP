@@ -13,7 +13,3 @@ Data Collection: Leveraging the snscrape library to capture tweets containing si
 
 **Results Synthesis**: Presenting the discerned topics and associated prevalent keywords, providing a foundation for more in-depth insights into the state of gender discourse on social media.
 
-Through this project, I aim to offer a nuanced understanding of the sentiments and biases surrounding women, showcasing my adeptness in harnessing the power of NLP for sociological insights.
-
-
-
