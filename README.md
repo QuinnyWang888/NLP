@@ -5,7 +5,7 @@ Modern discourse often undermines the achievements of women, casting shadows on 
 
 For many, the term "female" has unfortunately been wielded as a restraint, establishing what women should or shouldn't do based on societal constructs. This project endeavors to cast a spotlight on such perceptions using Natural Language Processing (NLP) to analyze comments about women on Twitter. The primary objectives include:
 
-Data Collection: Leveraging the snscrape library to capture tweets containing significant keywords associated with female bias.
+**Data Collection**: Leveraging the snscrape library to capture tweets containing significant keywords associated with female bias.
 
 **Data Preprocessing**: Engaging in thorough data refinement processes, such as deduplication, punctuation removal, and tokenization using TweetTokenizer, to prepare data for analysis.
 
